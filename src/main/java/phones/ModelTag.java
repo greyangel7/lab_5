@@ -1,8 +1,5 @@
 package phones;
 
-import java.awt.Color;
-
-// Поиск по модели
 public class ModelTag extends Tag {
     private String model;
 
